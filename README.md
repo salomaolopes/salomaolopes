@@ -8,14 +8,12 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https:/www.linkedin.com/in/salomaolopes/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  
 </h5>
 <br>
 <p align="center">
-  Olá, Meu nome é Salomão Lopes, Sou Bacharel em Ciência da Computação - UFPI / Licenciado em Matemática - UESPI / MBA em Data Science e Analytics - USP/ESALQ 
+  Bacharel em Ciência da Computação - UFPI / Licenciado em Matemática - UESPI / MBA em Data Science e Analytics - USP/ESALQ 
   <br>
   <br>
   🔬 Já trabalhei com Java, JavaScript, Ruby, RubyOnRails, Python, Django...desde 2015 venho trabalhando com dados abertos, ciências de dados, engenharia de dados, docker, airflow, etc...  
