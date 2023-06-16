@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Bacharel em Ciência da Computação - UFPI / Licenciado em Matemática - UESPI / MBA em Data Science e Analytics - USP/ESALQ 
+  Bacharel em Ciências da Computação - UFPI /// Licenciado em Matemática - UESPI /// MBA em Data Science e Analytics - USP/ESALQ 
   <br>
   <br>
   🔬 Já trabalhei com Java, JavaScript, Ruby, RubyOnRails, Python, Django...desde 2015 venho trabalhando com dados abertos, ciências de dados, engenharia de dados, docker, airflow, etc...  
@@ -75,9 +75,9 @@
 <h2 align="center">👨‍💻 Repositórios Públicos 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/salomaolopes/projetos_data_science" title="Projetos de Data Science"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salomaolopes&repo=projetos_data_science&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/salomaolopes/web_scrapers" title="Projeto Web Scraper Imóveis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salomaolopes&repo=web_scrapers&theme=react&border_color=61dafb&border_radius=10"></a>
   
-   <a align="right" href="https://github.com/salomaolopes/my_model_user" title="Modelo de User Django"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salomaolopes&repo=my_model_user&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/salomaolopes/shapiro-francia-python" title="Modelo de User Django"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salomaolopes&repo=shapiro-francia-pythonr&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
