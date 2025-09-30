@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+👋;Meu+nome+é+Salomão+;Seja+bem+vindo!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+👋;Meu+nome+é+Salomão+;Seja+bem+-+vindo!&center=true&size=30">
   </a>
 </h1>
 
@@ -16,7 +16,7 @@
   Bacharel em Ciências da Computação - UFPI /// Licenciado em Matemática - UESPI /// MBA em Data Science e Analytics - USP/ESALQ 
   <br>
   <br>
-  🔬 Já trabalhei com Java, JavaScript, Ruby, RubyOnRails, Python, Django...desde 2015 venho trabalhando com dados abertos, ciências de dados, engenharia de dados, docker, airflow, etc...  
+  🔬 Já trabalhei com Java, JavaScript, Ruby, RubyOnRails, Python, Django...trabalho atualmente com Ciências de Dados, Engenharia de Dados, Docker, Airflow, Kubernetes, configuração de ambiente Databricks, Azure e AWS.  
   <br>
   💬 Se quiser trocar uma idéia sobre programação... <a href="https://github.com/salomaolopes/salomaolopes/issues" title="Issues">Here</a>
   <br>
